@@ -1,0 +1,32 @@
+Nav{
+    display: inline-flex;
+    width:100%;
+}
+a{
+    text-decoration: none;
+    color: gray;
+    font-size: larger;
+}
+.navi{ 
+    margin-left: 60vh;
+    
+    
+}
+.user{
+    font-size: small;
+    padding: 5% 18% 5% 5%;
+    border-radius: 15%;
+    margin-left: 50vh;
+    background-color: rgba(140, 255, 255, 0.795);
+    align-items: center;
+    color: rgb(0, 189, 206);
+}
+.right{
+    float: right;
+}
+button{
+    background-color: rgb(87, 166, 240);
+    padding: 1.4%;
+    border-radius: 30%;
+    
+}
